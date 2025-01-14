@@ -298,7 +298,7 @@
                                         children: "Skype :",
                                       }),
                                       (0, i.jsx)("span", {
-                                        children: "Ragul.walker",
+                                        children: "Ragul",
                                       }),
                                     ],
                                   }),
